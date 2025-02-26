@@ -1,0 +1,12 @@
+1) Problem statement
+2) Requirement Gatehereing
+3) Pleaning and designing
+4) Coding
+5) Buld the code -->Compile, unit test and package -->.jar/.exe (atifacts). 
+6) Deploy the artifacts to QA/Staging.
+7) Testing/Validations  --> Functional testing/Security testing/performace testing/User acceptance testing.
+8) Deploy to production
+9) Monitoring
+10) Feedback /Maintainance. 
+
+
